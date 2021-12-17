@@ -1,0 +1,9 @@
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\bin\Debug\vagcodecompare.exe
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\bin\Debug\vagcodecompare.pdb
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.csprojAssemblyReference.cache
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.Form1.resources
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.Properties.Resources.resources
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.csproj.GenerateResource.cache
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.csproj.CoreCompileInputs.cache
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.exe
+D:\projects\vagcodecompare\vagcodecompare\vagcodecompare\obj\Debug\vagcodecompare.pdb
